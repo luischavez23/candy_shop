@@ -26,7 +26,7 @@ Este proyecto es una aplicación simple en Java que simula un sistema de ventas 
 
 
 
-##Autor
-Luis Pablo Cháavez
+## Autor
+Luis Pablo Chávez
 
 Si tienes preguntas o sugerencias, no dudes en contactarme a través de mi email o abrir un issue en el repositorio.
